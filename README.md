@@ -1,2 +1,30 @@
 # PS4_4.55_FTP
-PS4 4.55 FTP Payload
+
+<p align="center">
+<img src="https://t3.ftcdn.net/jpg/01/34/59/48/240_F_134594800_0O4VQC8EO7apgQu6h7DmekMJeX6DGtE7.jpg">
+</p>
+<p align="center">
+🔥 PS4FTP 4.55 Payload 🔥
+  <br>
+  Connect to your PS4 HDD Via FTP
+  
+  > How to use Payload.
+> - Download Compiled Payload
+> - Edit Payload With HexEdit
+> - Change IP Address to PS4 IP
+> - Save Payload
+> - Send Payload Using Netcat
+```
+nc.exe -w 3 192.168.0.1 9023 < PS4FTP.bin
+```
+> - Open Filezilla & Connect to PS4
+> - Profit $$
+  <br>
+</p>
+
+## Contributors
+Massive credits to the following:
+
+- [qwertyoruiopz](https://twitter.com/qwertyoruiopz)
+- [Flatz](https://twitter.com/flat_z)
+- Anonymous
