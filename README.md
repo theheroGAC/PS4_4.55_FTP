@@ -1,7 +1,7 @@
 # PS4_4.55_FTP
 
 <p align="center">
-<img src="https://t3.ftcdn.net/jpg/01/34/59/48/240_F_134594800_0O4VQC8EO7apgQu6h7DmekMJeX6DGtE7.jpg">
+<img src="https://cdn.discordapp.com/attachments/418471569707237377/418504444649668608/Screen_Shot_2018-02-28_at_23.26.57.png">
 </p>
 <p align="center">
 🔥 PS4FTP 4.55 Payload ~ SandBoxed FTP (Not Full) 🔥
@@ -10,8 +10,8 @@
   
   > How to use Payload.
 > - Download Compiled Payload
-> - Edit Payload With HexEdit
-> - Change IP Address to Your PS4 IP ``` 192.168.xxx.xxx ```
+> - Edit Payload With [HXD](https://mh-nexus.de/en/hxd/)
+> - Find & Change IP Address from ``` 192.168.88.87 ``` to Your PS4 IP ``` 192.168.xxx.xxx ```
 > - Save Payload
 > - Send Payload Using Netcat
 ```
