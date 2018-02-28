@@ -4,7 +4,7 @@
 <img src="https://cdn.discordapp.com/attachments/418471569707237377/418504444649668608/Screen_Shot_2018-02-28_at_23.26.57.png">
 </p>
 <p align="center">
-🔥 PS4FTP 4.55 Payload ~ SandBoxed FTP (Not Full) 🔥
+🔥 PS4FTP 4.55 Payload ~ SandBoxed FTP By Vultra & Full Access By XVortex 🔥
   <br>
   Connect to your PS4 HDD Via FTP
   
