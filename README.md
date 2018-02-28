@@ -4,14 +4,14 @@
 <img src="https://t3.ftcdn.net/jpg/01/34/59/48/240_F_134594800_0O4VQC8EO7apgQu6h7DmekMJeX6DGtE7.jpg">
 </p>
 <p align="center">
-🔥 PS4FTP 4.55 Payload 🔥
+🔥 PS4FTP 4.55 Payload ~ SandBoxed FTP (Not Full) 🔥
   <br>
   Connect to your PS4 HDD Via FTP
   
   > How to use Payload.
 > - Download Compiled Payload
 > - Edit Payload With HexEdit
-> - Change IP Address to PS4 IP ``` 192.168.xxx.xxx ```
+> - Change IP Address to Your PS4 IP ``` 192.168.xxx.xxx ```
 > - Save Payload
 > - Send Payload Using Netcat
 ```
