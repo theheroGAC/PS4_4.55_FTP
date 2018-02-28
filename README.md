@@ -10,7 +10,7 @@
   
   > How to use Payload.
 > - Download Compiled Payload
-> - Edit Payload With HexEdit
+> - Edit Payload With [HXD](https://mh-nexus.de/en/hxd/)
 > - Change IP Address to Your PS4 IP ``` 192.168.xxx.xxx ```
 > - Save Payload
 > - Send Payload Using Netcat
