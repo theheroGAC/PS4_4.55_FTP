@@ -11,11 +11,11 @@
   > How to use Payload.
 > - Download Compiled Payload
 > - Edit Payload With HexEdit
-> - Change IP Address to PS4 IP
+> - Change IP Address to PS4 IP ``` 192.168.xxx.xxx ```
 > - Save Payload
 > - Send Payload Using Netcat
 ```
-nc.exe -w 3 192.168.0.1 9023 < PS4FTP.bin
+nc.exe -w 3 `PS4IP` 9020 < PS4FTP.bin
 ```
 > - Open Filezilla & Connect to PS4
 > - Profit $$
@@ -28,3 +28,6 @@ Massive credits to the following:
 - [qwertyoruiopz](https://twitter.com/qwertyoruiopz)
 - [Flatz](https://twitter.com/flat_z)
 - Anonymous
+
+- [DarkElement](https://twitter.com/zordon605)
+- [Vultra](https://twitter.com/C0rpVultra)
