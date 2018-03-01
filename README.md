@@ -8,7 +8,7 @@
   <br>
   Connect to your PS4 HDD Via FTP
   
-  > How to use Payload.
+  > How to use Payload (Sandboxed FTP Only).
 > - Download Compiled Payload
 > - Edit Payload With [HXD](https://mh-nexus.de/en/hxd/)
 > - Find & Change IP Address from ``` 192.168.88.87 ``` to Your PS4 IP ``` 192.168.xxx.xxx ```
